@@ -17,28 +17,43 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Teaching Assistant"
+  company = "University of Toronto"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Toronto"
+  date_start = "2018-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Courses:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * STA220 - Summer 2019
+  * STA303 - Winter 2019
+  * STA314 - Fall 2018
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Analyst - Actuarial, Rewards & Analytics"
+  company = "Deloitte Canada"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Toronto"
+  date_start = "2018-01-01"
+  date_end = "2018-09-01"
+  description = """
+  Worked as an actuarial consultant with a focus on insurance analytics
+  """
+
+[[experience]]
+  title = "Actuarial Analyst"
+  company = "Intact Financial"
+  company_url = ""
+  location = "Toronto"
+  date_start = "2017-05-01"
+  date_end = "2017-09-01"
+  description = """
+  Worked as an actuarial analyst on a pricing team
+  """
+
 
 +++
