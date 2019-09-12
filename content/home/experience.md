@@ -27,7 +27,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Courses:
-  
+
+  * STA314 - Fall 2019
+  * STA130 - Fall 2019
   * STA220 - Summer 2019
   * STA303 - Winter 2019
   * STA314 - Fall 2018
