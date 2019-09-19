@@ -1,10 +1,8 @@
 ---
-title: "Arxiv_sanity_downloader"
+title: "Arxiv Sanity Downloader"
 date: 2019-09-02T03:12:36-04:00
 draft: false
 ---
-
-# Arxiv Sanity Downloader
 
 ## Location:
 
