@@ -1,10 +1,14 @@
 ---
 title: "Arxiv_sanity_downloader"
 date: 2019-09-02T03:12:36-04:00
-draft: true
+draft: false
 ---
 
 # Arxiv Sanity Downloader
+
+## Location:
+
+This project can be found on my [github](https://github.com/MichalMalyska/Arxiv_Sanity_Downloader)
 
 ## Purpose:
 
