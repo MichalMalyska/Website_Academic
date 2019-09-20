@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
 linktitle: STA130 Fall 2019
-summary: Practice of Statistics I with Prof. Asal Aslemand
+summary: Intro To Data Science with Prof. Bethany White
 weight: 98
 
 # Page metadata.
-title: Practice of Statistics
+title: Intro To Data Science
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
