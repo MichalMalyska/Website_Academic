@@ -16,7 +16,7 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  sta220:
+  sta220s19:
     name: STA220
     weight: 1
 ---
