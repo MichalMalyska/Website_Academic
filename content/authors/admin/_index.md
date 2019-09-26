@@ -71,7 +71,3 @@ email: "malyskamichal@gmail.com"
 I am a MSc. candidate in Statistics at University of Toronto focusing on Machine
 Learning. Just beginning research at RiskLab in financial Machine Learning and
 also MCMC with Will Grathwohl under the supervision of David Duvenaud.
-
-I did my BSc. at University of Toronto as well (At this point it's probably
-Stockholm Syndrome). I started off in Actuarial Science but it took me only two
-years to correct that mistake and switch into pure statistics.
