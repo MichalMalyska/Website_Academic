@@ -49,7 +49,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Analyst - Actuarial, Rewards & Analytics"
   company = "Deloitte Canada"
-  company_url = ""
+  company_url = "https://www2.deloitte.com/ca/en/pages/audit/solutions/actuarial-rewards-analytics.html"
   location = "Toronto"
   date_start = "2018-01-01"
   date_end = "2018-09-01"
