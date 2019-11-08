@@ -69,15 +69,15 @@ email: "malyskamichal@gmail.com"
 ---
 
 I am a MSc. candidate in Statistics at University of Toronto focusing on Machine
-Learning. Just beginning research at RiskLab in financial Machine Learning and
-also MCMC with Will Grathwohl under the supervision of David Duvenaud.
+Learning. Currently working with Clinical NLP and training procedures for
+Energy Based Models with Will Grathwohl under the supervision of Prof. David Duvenaud.
 
 Prior to starting my masters I completed my BSc. in Statistics,
 also at University of Toronto and have worked at
 [Deloitte's Actuarial Rewards & Analytics Team]
 (https://www2.deloitte.com/ca/en/pages/audit/solutions/actuarial-rewards-analytics.html)
 and Intact Financial's Belairdirect Team, where I utilized my quantitative background
-to develop statistical models, and a large amount of high level work on the
+to develop statistical models, and completed a large amount of high level work on the
 state of analytics. While the vast majority of my work has been in the insurance
 world I am not interested in pursuing that avenue further.
 
