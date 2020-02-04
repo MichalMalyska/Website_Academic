@@ -68,9 +68,10 @@ email: "malyskamichal@gmail.com"
 # - Visitors
 ---
 
-I am a MSc. candidate in Statistics at University of Toronto focusing on Machine
-Learning. Currently working with Clinical NLP and training procedures for
-Energy Based Models with Will Grathwohl under the supervision of Prof. David Duvenaud.
+I am a part-time MSc. student in Statistics at University of Toronto focusing on Machine
+Learning. Currently working at a startup in the clinical ML space.
+My current research revolves around Clinical NLP and improving training procedures
+for Energy Based Models
 
 Prior to starting my masters I completed my BSc. in Statistics,
 also at University of Toronto and have worked at

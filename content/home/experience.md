@@ -18,6 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[experience]]
+  title = "Machine Learning Engineer"
+  company = "Semantic Health"
+  company_urk = ""
+  location = "Toronto"
+  date_start = "2019-12-01"
+  date_end = ""
+  description = """
+  Implementing SOTA NLP models in the clinical space. 
+  """
+
 [[experience]]
   title = "Researcher"
   company = "RiskLab"
@@ -39,6 +51,7 @@ date_format = "Jan 2006"
   description = """
   Courses:
 
+  * STA130 - Winter 2020
   * STA314 - Fall 2019
   * STA130 - Fall 2019
   * STA220 - Summer 2019
