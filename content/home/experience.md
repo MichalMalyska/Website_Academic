@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Machine Learning Engineer"
-  company = "Semantic Health"
+  company = "Startup"
   company_urk = ""
   location = "Toronto"
   date_start = "2019-12-01"
