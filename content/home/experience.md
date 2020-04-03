@@ -27,7 +27,8 @@ date_format = "Jan 2006"
   date_start = "2019-12-01"
   date_end = ""
   description = """
-  Implementing SOTA NLP models in the clinical space. 
+  Implementing SOTA NLP models.
+  
   """
 
 [[experience]]
@@ -36,7 +37,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Toronto"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2019-12-31"
   description = """
   Applied ML lab for Finance
   """
