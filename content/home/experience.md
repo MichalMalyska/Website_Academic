@@ -20,15 +20,46 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Machine Learning Engineer"
-  company = "Startup"
+  title = "Machine Learning Team Lead"
+  company = "Stealth Stage Healthcare AI Startup"
+  company_urk = ""
+  location = "Toronto"
+  date_start = "2020-12-01"
+  date_end = ""
+  description = """
+  """
+
+[[experience]]
+  title = "Course Instructor"
+  company = "University of Toronto"
+  company_url = ""
+  location = "Toronto"
+  date_start = "2020-05-01"
+  date_end = "2020-07-01"
+  description = """
+  Courses:
+  * STA220 - Introduction to Statistics for Life Sciences
+  """
+
+[[experience]]
+  title = "Machine Learning Scientist"
+  company = "Stealth Stage Healthcare AI Startup"
   company_urk = ""
   location = "Toronto"
   date_start = "2019-12-01"
-  date_end = ""
+  date_end = "2020-12-01"
   description = """
-  Implementing SOTA NLP models.
-  
+  """
+
+[[experience]]
+  title = "Research Visitor"
+  company = "St Michael's Hospital"
+  company_urk = ""
+  location = "Toronto"
+  date_start = "2020-01-01"
+  date_end = "2020-12-31"
+  description = """
+  Research into automatic severity classification of Multiple Sclerosis from patient encounter notes
   """
 
 [[experience]]
@@ -48,7 +79,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Toronto"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2021-01-01"
   description = """
   Courses:
 
