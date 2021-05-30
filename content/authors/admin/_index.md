@@ -75,8 +75,7 @@ for Energy Based Models
 
 Prior to starting my masters I completed my BSc. in Statistics,
 also at University of Toronto and have worked at
-[Deloitte's Actuarial Rewards & Analytics Team]
-(https://www2.deloitte.com/ca/en/pages/audit/solutions/actuarial-rewards-analytics.html)
+[Deloitte's Actuarial Rewards & Analytics Team](https://www2.deloitte.com/ca/en/pages/audit/solutions/actuarial-rewards-analytics.html)
 and Intact Financial's Belairdirect Team, where I utilized my quantitative background
 to develop statistical models, and completed a large amount of high level work on the
 state of analytics. While the vast majority of my work has been in the insurance
