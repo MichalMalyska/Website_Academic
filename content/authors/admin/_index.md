@@ -13,9 +13,9 @@ superuser: true
 role: Machine Learning Team Lead
 
 # Organizations/Affiliations
-organizations:
-- name: Semantic Health
-  url: "https://www.semantichealth.ai/"
+# organizations:
+# - name: Semantic Health
+#   url: "https://www.semantichealth.ai/"
 
 
 # Short bio (displayed in user profile at end of posts)
