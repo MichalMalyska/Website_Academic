@@ -10,27 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: MSc. Statistics Candidate at University of Toronto
+role: Machine Learning Team Lead
 
 # Organizations/Affiliations
-# organizations:
-# - name:
-#   url: ""
+organizations:
+- name: Semantic Health
+  url: "https://www.semantichealth.ai/"
+
 
 # Short bio (displayed in user profile at end of posts)
 # bio:
 
 interests:
-- Theoretical Machine Learning
-- Statistical Learning
-- MCMC
-- Teaching
+- Building ML Products
+- Natural Language Processing
+- Clinical Machine Learning
+- "Full Stack" Deep Learning
 
 education:
   courses:
   - course: MSc in Statistics
     institution: University of Toronto
-    year: Current
+    year: 2022
   - course: BSc in Statistics
     institution: University of Toronto
     year: 2019
@@ -68,19 +69,8 @@ email: "malyskamichal@gmail.com"
 # - Visitors
 ---
 
-I am a part-time MSc. student in Statistics at University of Toronto focusing on Machine
-Learning. Currently working at a startup in the clinical ML space.
-My current research revolves around Clinical NLP and improving training procedures
-for Energy Based Models
-
-Prior to starting my masters I completed my BSc. in Statistics,
-also at University of Toronto and have worked at
-[Deloitte's Actuarial Rewards & Analytics Team](https://www2.deloitte.com/ca/en/pages/audit/solutions/actuarial-rewards-analytics.html)
-and Intact Financial's Belairdirect Team, where I utilized my quantitative background
-to develop statistical models, and completed a large amount of high level work on the
-state of analytics. While the vast majority of my work has been in the insurance
-world I am not interested in pursuing that avenue further.
-
-I will be posting the occasional projects on this website, but the bulk of my
-academic work (especially relating to my teaching assistant appointments) can
-be found on my other [website](https://michalmalyska.github.io).
+I currently lead the "Science" (ML Science + ML Eng + ML Ops) team at Semantic Health, where we work on cool stuff in Clinical
+Natural Language Processing. 
+I also occasionally teach at University of Toronto (most recently [STA414/2104](https://duvenaud.github.io/sta414/)) where I completed both my degrees. 
+Interested in all things machine learning, with a particular focus on good practices, and applications in high stakes environments (e.g. healthcare). 
+Outside of work and school, I geek out on perma/agriculture, and the whole chain of food to metabolism, including growing (whatever you can in a condo), cooking, and burning the calories while running on Toronto waterfront trails.
