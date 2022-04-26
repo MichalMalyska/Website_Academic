@@ -25,7 +25,7 @@ interests:
 - Building ML Products
 - Natural Language Processing
 - Clinical Machine Learning
-- "Full Stack" Deep Learning
+- Full Stack Deep Learning
 
 education:
   courses:
