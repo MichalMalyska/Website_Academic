@@ -69,8 +69,8 @@ email: "malyskamichal@gmail.com"
 # - Visitors
 ---
 
-I currently lead the "Science" (ML Science + ML Eng + ML Ops) team at Semantic Health, where we work on cool stuff in Clinical
-Natural Language Processing. 
+I currently lead the "Science" (ML Science + ML Eng + ML Ops) team at Semantic Health, where I was the first employee. Over the last couple of years we grew the Machine Learning product from 0 to support multiple business lines, and optimized for getting things done, without compromising the long term vision we developed. As we grew, my role has gradually shifted from being primarily an IC at to a lead posision. I am particularly proud of the long term ML vision we have at Semantic, processes we have developed to ensure we hire great people, [team culture](https://cultofthepartyparrot.com/parrots/hd/dadparrot.gif), ever-improving tech stack and code-base, processes to support quality code and model development, and our contiuous planning / roadmapping process.
+
 I also occasionally teach at University of Toronto (most recently [STA414/2104](https://duvenaud.github.io/sta414/)) where I completed both my degrees. 
 Interested in all things machine learning, with a particular focus on good practices, and applications in high stakes environments (e.g. healthcare). 
-Outside of work and school, I geek out on perma/agriculture, and the whole chain of food to metabolism, including growing (whatever you can in a condo), cooking, and burning the calories while running on Toronto waterfront trails.
+Outside of work and school, I geek out on permaculture/agriculture, and the whole chain of food to metabolism, including growing (whatever you can in a condo), cooking, and burning the calories while running on Toronto waterfront trails.
