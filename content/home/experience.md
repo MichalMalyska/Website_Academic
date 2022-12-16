@@ -18,11 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Course Instructor"
+  company = "University of Toronto"
+  company_url = ""
+  location = "Toronto"
+  date_start = "2022-01-01"
+  date_end = "2022-05-01"
+  description = """
+  Taught the crosslisted (undergrad + graduate) "Statistical methods for Machine Learning II" course to a class of 200, alongside David Duvenaud. 
+  Particularly proud of some cool Attention exam questions, and the intro to NLP lecture.
+  """
 
 [[experience]]
   title = "Machine Learning Team Lead"
-  company = "Stealth Stage Healthcare AI Startup"
-  company_urk = ""
+  company = "Semantic Health"
+  company_url = "https://semantichealth.ai"
   location = "Toronto"
   date_start = "2020-12-01"
   date_end = ""
@@ -43,8 +54,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Machine Learning Scientist"
-  company = "Stealth Stage Healthcare AI Startup"
-  company_urk = ""
+  company = "Semantic Health"
+  company_url = "https://semantichealth.ai"
   location = "Toronto"
   date_start = "2019-12-01"
   date_end = "2020-12-01"
