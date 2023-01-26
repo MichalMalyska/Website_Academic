@@ -26,8 +26,21 @@ date_format = "Jan 2006"
   date_start = "2022-01-01"
   date_end = "2022-05-01"
   description = """
+  Taught the crosslisted (undergrad + graduate) "Probablistic Methods of Machine Learning" course in the Computer Science department
+  https://michalmalyska.github.io/csc412
+  """
+
+[[experience]]
+  title = "Course Instructor"
+  company = "University of Toronto"
+  company_url = ""
+  location = "Toronto"
+  date_start = "2022-01-01"
+  date_end = "2022-05-01"
+  description = """
   Taught the crosslisted (undergrad + graduate) "Statistical methods for Machine Learning II" course to a class of 200, alongside David Duvenaud. 
   Particularly proud of some cool Attention exam questions, and the intro to NLP lecture.
+  https://duvenaud.github.io/sta414/
   """
 
 [[experience]]
@@ -35,8 +48,8 @@ date_format = "Jan 2006"
   company = "Semantic Health"
   company_url = "https://semantichealth.ai"
   location = "Toronto"
-  date_start = "2020-12-01"
-  date_end = ""
+  date_start = "2021-01-01"
+  date_end = "2022-11-01"
   description = """
   """
 
@@ -48,8 +61,7 @@ date_format = "Jan 2006"
   date_start = "2020-05-01"
   date_end = "2020-07-01"
   description = """
-  Courses:
-  * STA220 - Introduction to Statistics for Life Sciences
+  STA220 - Introduction to Statistics for Life Sciences
   """
 
 [[experience]]
